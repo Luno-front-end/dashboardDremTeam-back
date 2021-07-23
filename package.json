@@ -1,0 +1,27 @@
+{
+  "name": "dashboardDremTeam-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "start:dev": "nodemon ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luno-front-end/dashboardDremTeam-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luno-front-end/dashboardDremTeam-back/issues"
+  },
+  "homepage": "https://github.com/Luno-front-end/dashboardDremTeam-back#readme",
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "10.0.0",
+    "express": "4.17.1",
+    "nodemon": "2.0.12"
+  }
+}
